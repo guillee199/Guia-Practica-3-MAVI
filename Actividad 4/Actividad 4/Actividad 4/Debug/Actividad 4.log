@@ -1,0 +1,12 @@
+﻿  Actividad 4.cpp
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(13,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(13,17): warning C4244:         with
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(13,17): warning C4244:         [
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(13,17): warning C4244:             T=unsigned int
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(13,17): warning C4244:         ]
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(14,18): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(14,18): warning C4244:         with
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(14,18): warning C4244:         [
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(14,18): warning C4244:             T=unsigned int
+C:\Users\guill\source\repos\Actividad 4\Actividad 4\Actividad 4.cpp(14,18): warning C4244:         ]
+  Actividad 4.vcxproj -> C:\Users\guill\source\repos\Actividad 4\Actividad 4\Debug\Actividad 4.exe
